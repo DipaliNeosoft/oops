@@ -1,0 +1,23 @@
+
+#inputdetails{
+ 
+    width: 800px;
+}
+input{
+    width: 400px;
+}
+button{
+    width: 200px;
+}
+
+#headline{
+    font-size: 45px;
+    margin-bottom: 20px;
+}
+.jumbotron{
+    padding: 20px !important;
+    width: max-content !important;
+    margin: auto !important;
+    margin-top: 10px !important;
+    background: linear-gradient(160deg,deeppink,orange,violet,red);
+}
